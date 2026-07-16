@@ -30,7 +30,7 @@ Rather than simply comparing products, this study applies **Product Thinking** t
 A comparative analysis of the leading AI bookkeeping platforms based on funding, company scale, customer base, product capabilities, and growth strategy.
 
 <p align="center">
-<img src="assets/competitor-analysis.png" width="95%" alt="Competitor Analysis">
+  <img src="assets/competitor-analysis.png" width="70%" alt="Competitor Analysis">
 </p>
 
 ---
@@ -40,7 +40,7 @@ A comparative analysis of the leading AI bookkeeping platforms based on funding,
 Recommended high-impact initiatives designed to improve product differentiation, customer acquisition, and long-term scalability.
 
 <p align="center">
-<img src="assets/strategic-recommendations.png" width="70%" alt="Strategic Recommendations">
+  <img src="assets/strategic-recommendations.png" width="70%" alt="Strategic Recommendations">
 </p>
 
 ---
@@ -50,7 +50,7 @@ Recommended high-impact initiatives designed to improve product differentiation,
 A positioning framework demonstrating how Hellobooks can differentiate itself against key competitors through pricing, automation, usability, and AI capabilities.
 
 <p align="center">
-<img src="assets/competitive-positioning.png" width="70%" alt="Competitive Positioning">
+  <img src="assets/competitive-positioning.png" width="70%" alt="Competitive Positioning">
 </p>
 
 ---
@@ -91,7 +91,7 @@ Compared Hellobooks against:
 - Integra Balance AI
 - Bookkeeping.ai
 
-Evaluation Criteria
+### Evaluation Criteria
 
 - Funding
 - Market Position
@@ -143,7 +143,7 @@ Developed prioritized recommendations including:
 # ⭐ Key Deliverables
 
 - Executive Summary
-- Market Research Report
+- Market Research
 - Competitor Analysis
 - Product Positioning Assessment
 - Feature Gap Analysis
